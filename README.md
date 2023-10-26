@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/mino29/mysql-workbench.git
+    git clone https://github.com/mino29/mysql-workbench-tokyonight.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/mino29/mysql-workbench/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/mino29/mysql-workbench-tokyonight/archive/refs/heads/main.zip) option and unzip them.
 
 #### Activating theme
 
@@ -37,6 +37,6 @@ Download using the [GitHub .zip download](https://github.com/mino29/mysql-workbe
 
 #### Credit
 
-[Dracula MySQL](https://github.com/mino29/mysql-workbench)
+[Dracula MySQL](https://github.com/dracula/mysql-workbench)
 
 I basically just copy the dracula one and tweak the colors to my liking, I like tokyonight a lot.
