@@ -20,7 +20,7 @@
 <!-- SCE_MYSQL_MAJORKEYWORD -->
 <style id="8" fore-color-light="#2AC3DE" back-color-light="#1A1B26" fore-color-dark="#2AC3DE" back-color-dark="#1A1B26" bold="No" />
 <!-- SCE_MYSQL_KEYWORD -->
-<style id="9" fore-color-light="#50fa7b" back-color-light="#1A1B26" fore-color-dark="#50fa7b" back-color-dark="#1A1B26" bold="No" />
+<style id="9" fore-color-light="#6A8CD5" back-color-light="#1A1B26" fore-color-dark="#6A8CD5" back-color-dark="#1A1B26" bold="No" />
 <!-- SCE_MYSQL_DATABASEOBJECT -->
 <style id="10" fore-color-light="#A9B1D6" back-color-light="#1A1B26" fore-color-dark="#A9B1D6" back-color-dark="#1A1B26" bold="No" />
 <!-- SCE_MYSQL_PROCEDUREKEYWORD -->
@@ -32,7 +32,7 @@
 <!-- SCE_MYSQL_DQSTRING -->
 <style id="14" fore-color-light="#B494EE" back-color-light="#1A1B26" fore-color-dark="#B494EE" back-color-dark="#1A1B26" bold="No" />
 <!-- SCE_MYSQL_OPERATOR -->
-<style id="15" fore-color-light="#50fa7b" back-color-light="#1A1B26" fore-color-dark="#50fa7b" back-color-dark="#1A1B26" bold="No" />
+<style id="15" fore-color-light="#6A8CD5" back-color-light="#1A1B26" fore-color-dark="#6A8CD5" back-color-dark="#1A1B26" bold="No" />
 <!-- SCE_MYSQL_FUNCTION -->
 <style id="16" fore-color-light="#A9B1D6" back-color-light="#1A1B26" fore-color-dark="#A9B1D6" back-color-dark="#1A1B26" bold="No" />
 <!-- SCE_MYSQL_IDENTIFIER -->
@@ -65,7 +65,7 @@
 <!-- SCE_MYSQL_MAJORKEYWORD -->
 <style id="72" fore-color-light="#2AC3DE" back-color-light="#49483E" fore-color-dark="#2AC3DE" back-color-dark="#49483E" bold="No" />
 <!-- SCE_MYSQL_KEYWORD -->
-<style id="73" fore-color-light="#50fa7b" back-color-light="#49483E" fore-color-dark="#50fa7b" back-color-dark="#49483E" bold="No" />
+<style id="73" fore-color-light="#6A8CD5" back-color-light="#49483E" fore-color-dark="#6A8CD5" back-color-dark="#49483E" bold="No" />
 <!-- SCE_MYSQL_DATABASEOBJECT -->
 <style id="74" fore-color-light="#A9B1D6" back-color-light="#49483E" fore-color-dark="#A9B1D6" back-color-dark="#49483E" bold="No" />
 <!-- SCE_MYSQL_PROCEDUREKEYWORD -->
@@ -77,7 +77,7 @@
 <!-- SCE_MYSQL_DQSTRING -->
 <style id="78" fore-color-light="#B494EE" back-color-light="#49483E" fore-color-dark="#B494EE" back-color-dark="#49483E" bold="No" />
 <!-- SCE_MYSQL_OPERATOR -->
-<style id="79" fore-color-light="#50fa7b" back-color-light="#49483E" fore-color-dark="#50fa7b" back-color-dark="#49483E" bold="No" />
+<style id="79" fore-color-light="#6A8CD5" back-color-light="#49483E" fore-color-dark="#6A8CD5" back-color-dark="#49483E" bold="No" />
 <!-- SCE_MYSQL_FUNCTION -->
 <style id="80" fore-color-light="#A9B1D6" back-color-light="#49483E" fore-color-dark="#A9B1D6" back-color-dark="#49483E" bold="No" />
 <!-- SCE_MYSQL_IDENTIFIER -->
