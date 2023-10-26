@@ -1,5 +1,10 @@
 ### [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
+#### Screenshot
+> A dark theme for [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+![Screenshot](./screenshot.png)
+
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
