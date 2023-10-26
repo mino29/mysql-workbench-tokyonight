@@ -20,7 +20,7 @@ Download using the [GitHub .zip download](https://github.com/mino29/mysql-workbe
 **Using Windows**
 
 1. Copy `code_editor.xml` file
-2. Go to `C:\Program Files\MySQL\MySQL Workbench 6.3 CE\data` or `C:\YOUR_USERNAME\scoop\mysql-workbench\data` if you are a fellow scoop enjoyer
+2. Go to `C:\Program Files\MySQL\MySQL Workbench 6.3 CE\data` or `C:\Users\YOUR_USERNAME\scoop\mysql-workbench\current\data` if you are a fellow scoop enjoyer
 3. Copy `code_editor.xml` and overwrite the existing one in the directory
 5. Open your MySQL Workbench and be happy!
 
